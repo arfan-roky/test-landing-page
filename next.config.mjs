@@ -14,6 +14,9 @@ const config = {
       {
         hostname: "avatar.vercel.sh",
       },
+      {
+        hostname: "assets.aceternity.com",
+      },
     ],
   },
 };

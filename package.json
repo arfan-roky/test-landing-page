@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@plaiceholder/next": "^3.0.0",
+    "@tabler/icons-react": "^3.29.0",
     "clsx": "^2.1.1",
     "gsap": "^3.12.5",
     "mini-svg-data-uri": "^1.4.4",
