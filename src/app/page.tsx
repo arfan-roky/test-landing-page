@@ -1,6 +1,7 @@
 import { HowItWorks } from "@/components/HowItWorks";
 import { PulseBeams } from "./Preview";
 import { MarqueeDemo } from "@/components/marquee";
+import { CardDemo } from "@/components/Pricing";
 
 const HomePage = () => {
   return (
@@ -23,6 +24,7 @@ const HomePage = () => {
         </button>
       </div>
       <HowItWorks />
+      {/* <CardDemo /> */}
       <PulseBeams />
       <MarqueeDemo />
     </section>
